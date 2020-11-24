@@ -1,4 +1,5 @@
 老师，您好！
 11.14的作业一运行代码截图如下：
-利用map规范输入的英文名
+python_homework：利用map规范输入的英文名代码；
+python_homework(2):
 
