@@ -12,7 +12,7 @@ python_homework(2).py:利用reduce*******；
 3
 41232
 12
-1
+12
 1234
 1
 1
