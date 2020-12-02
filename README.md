@@ -20,6 +20,6 @@ python_homework(2).py:利用reduce*******；
 3
 4
 12
-2
+22
 3
 42
