@@ -19,7 +19,7 @@ python_homework(2).py:利用reduce*******；
 21
 3
 44
-121
+1212
 22
 3
 42
