@@ -7,5 +7,5 @@ python_homework。py：利用map规范输入的英文名代码；
 python_homework(2).py:利用reduce*******；
 
 -
-11112
+111123
 4
