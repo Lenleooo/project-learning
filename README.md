@@ -12,5 +12,5 @@ python_homework(2).py:利用reduce*******；
 212
 2311
 21
-2
+24
 2
