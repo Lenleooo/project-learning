@@ -5,6 +5,6 @@
 python_homework。py：利用map规范输入的11英文名代码；
 111
 python2211_homework(2).py:利用reduce**111；4444
-1
+1123
 1
 
