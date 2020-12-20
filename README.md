@@ -2,9 +2,9 @@
 
 11.14的作业一运行代码截图如下：
 
-python_homework。py：利用map规范输入的11英文名代码；
+python_homework。py：利用map规范输入的11英文名代码；12453
 111
-python2211_homework(2).py:利用redu22744ce**111；4444
+python2214444
 1123
 1
 
